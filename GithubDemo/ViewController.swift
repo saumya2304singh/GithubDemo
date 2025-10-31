@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("new branch created and switched from main to new branch.")
+        print("hello world")
     }
 
 
